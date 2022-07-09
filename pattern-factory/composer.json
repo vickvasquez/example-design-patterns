@@ -1,0 +1,16 @@
+{
+    "name": "vickvasquez/pattern-factory",
+    "description": "factory pattern example",
+    "authors": [
+        {
+            "name": "Vick Vasquez",
+            "email": "vasjvic44@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Factory\\": "./src"
+        }
+    },
+    "require": {}
+}
