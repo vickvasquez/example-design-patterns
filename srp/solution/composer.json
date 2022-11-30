@@ -1,0 +1,16 @@
+{
+    "name": "vickvasquez/solution",
+    "authors": [
+        {
+            "name": "Vick Vasquez",
+            "email": "vasjvic44@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SRP\\Solution\\": "./lib"
+        },
+        "files": ["utils/parseArgs.php"]
+    },
+    "require": {}
+}
