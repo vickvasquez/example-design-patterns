@@ -1,0 +1,15 @@
+{
+    "name": "vickvasquez/sympthom",
+    "authors": [
+        {
+            "name": "Vick Vasquez",
+            "email": "vasjvic44@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "OCP\\Sympthom\\": "./lib"
+        }
+    },
+    "require": {}
+}
