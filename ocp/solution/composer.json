@@ -1,0 +1,15 @@
+{
+    "name": "vickvasquez/solution",
+    "authors": [
+        {
+            "name": "Vick Vasquez",
+            "email": "vasjvic44@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "OCP\\Solution\\": "./lib"
+        }
+    },
+    "require": {}
+}
